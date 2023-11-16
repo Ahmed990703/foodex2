@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "387654486574",
+    "project_id": "foodex2",
+    "storage_bucket": "foodex2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387654486574:android:fa7db2b1b525becd066dbf",
+        "android_client_info": {
+          "package_name": "com.example.foodex2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuGGwVkwrLPn4Rm2fZKN_bvSuwNnyF8L0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
